@@ -1,5 +1,7 @@
 i2cdisplay
 ==========
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![Code Climate](https://codeclimate.com/github/jkawamoto/i2cdisplay/badges/gpa.svg)](https://codeclimate.com/github/jkawamoto/i2cdisplay)
 
 A Python library for LCDs connected via I2C.
 Now, this library supports LCDs with SpikenzieLabs's [MPTH](https://www.spikenzielabs.com/SpikenzieLabs/MPTH.html).
